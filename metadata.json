@@ -1,0 +1,6 @@
+{
+  "name": "PolicyOS - Deterministic Expense Policy Engine",
+  "description": "Enterprise UI for deterministic expense policy extraction, maker-checker approval, and line-level claim adjudication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
